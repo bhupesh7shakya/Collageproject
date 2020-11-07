@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <div class="col-xl border text-center mt-5 pb-5">
-    <h1>Add purchaser item</h1>
+    <h1 class="ml-5">Add purchaser item</h1>
     <br>
     <form>
         <div class="form-group">
@@ -42,7 +42,7 @@
     </form>
 </div>
 </div>
-<div class="row border mt-5">
+<div class="row border mt-5 ml-5">
     <h1 class="m-4">Table of purchase item</h1>
     <br>
     <table class="table table-bordered m-4">

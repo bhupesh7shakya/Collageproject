@@ -2,7 +2,7 @@
 <?php include('header.php'); ?>
 <div class="col-xl border mt-5 pb-5">
     <div class="bar">
-        <h1 class="Db">Dashboard</h1>
+        <h1 class="Db ml-5 mt-5">Dashboard</h1>
         <br>
         <table id="q-graph">
             <caption>Quarterly Results</caption>

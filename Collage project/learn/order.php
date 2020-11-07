@@ -1,6 +1,6 @@
     <?php include('header.php'); ?>
     <div class="container">
-        <h1 class="mt-5">Order</h1>
+        <h1 class="ml-5 mt-5">Order</h1>
         <form class="form-inline my-2 my-lg-0 float-right m-5">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
